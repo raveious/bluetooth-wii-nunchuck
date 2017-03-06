@@ -14,6 +14,7 @@ Extras:
 - USB debug.
 - USB Charging.
 - Status LEDs.
+- Report battery status over Bluetooth.
 
 ## Build of Materials
 
